@@ -1,1 +1,1 @@
-"nimical" - anagram for Minimal Tactical in .NET. This is a sandbox for minimal tactical design toolset for DDD approach in .NET.
+"nimical" - anagram for Minimal Tactical in .NET. This is a playground for minimal tactical design toolset for DDD approach in .NET.
